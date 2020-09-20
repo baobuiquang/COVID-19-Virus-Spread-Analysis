@@ -482,7 +482,7 @@ plt.legend()
 
 
     
-![png](output_11_1.png)
+![png](assets/output_11_1.png)
     
 
 
@@ -864,7 +864,7 @@ plt.legend()
 
 
     
-![png](output_16_1.png)
+![png](assets/output_16_1.png)
     
 
 
@@ -1244,7 +1244,7 @@ plt.legend()
 
 
     
-![png](output_20_1.png)
+![png](assets/output_20_1.png)
     
 
 
@@ -1270,7 +1270,7 @@ dataset_cases.loc["Vietnam"].diff().plot(figsize=(14, 6), legend = True, title =
 
 
     
-![png](output_24_1.png)
+![png](assets/output_24_1.png)
     
 
 
@@ -1311,7 +1311,7 @@ dataset_cases.loc["Vietnam"].diff().plot(legend = True)
 
 
     
-![png](output_28_1.png)
+![png](assets/output_28_1.png)
     
 
 
@@ -2506,7 +2506,7 @@ plt.legend()
 
 
     
-![png](output_39_1.png)
+![png](assets/output_39_1.png)
     
 
 
@@ -2539,7 +2539,7 @@ plt.legend()
 
 
     
-![png](output_42_1.png)
+![png](assets/output_42_1.png)
     
 
 
@@ -2564,7 +2564,7 @@ dataset_deaths.loc["Vietnam"].diff().plot(figsize=(14, 6), legend = True, title 
 
 
     
-![png](output_46_1.png)
+![png](assets/output_46_1.png)
     
 
 
@@ -2603,7 +2603,7 @@ dataset_deaths.loc["Vietnam"].diff().plot(legend = True)
 
 
     
-![png](output_50_1.png)
+![png](assets/output_50_1.png)
     
 
 
@@ -3805,7 +3805,7 @@ plt.legend()
 
 
     
-![png](output_62_1.png)
+![png](assets/output_62_1.png)
     
 
 
@@ -3838,7 +3838,7 @@ plt.legend()
 
 
     
-![png](output_65_1.png)
+![png](assets/output_65_1.png)
     
 
 
@@ -3863,7 +3863,7 @@ dataset_recovered.loc["Vietnam"].diff().plot(figsize=(14, 6), legend = True, tit
 
 
     
-![png](output_69_1.png)
+![png](assets/output_69_1.png)
     
 
 
@@ -3898,7 +3898,7 @@ dataset_recovered.loc["US"].diff().plot(figsize=(14, 6), legend = True, color = 
 
 
     
-![png](output_73_1.png)
+![png](assets/output_73_1.png)
     
 
 
@@ -5019,7 +5019,7 @@ temp_data_filtered["confirmed_cases"].plot(kind = 'bar', figsize=(42, 6), legend
 
 
     
-![png](output_92_1.png)
+![png](assets/output_92_1.png)
     
 
 
@@ -5157,7 +5157,7 @@ data_filtered["recovery_rate"].plot(kind = 'bar', figsize=(42, 6), legend = True
 
 
     
-![png](output_95_1.png)
+![png](assets/output_95_1.png)
     
 
 
@@ -5187,7 +5187,7 @@ sns.scatterplot(x, y)
 
 
     
-![png](output_98_2.png)
+![png](assets/output_98_2.png)
     
 
 
@@ -5209,7 +5209,7 @@ sns.regplot(x, y)
 
 
     
-![png](output_99_2.png)
+![png](assets/output_99_2.png)
     
 
 
@@ -5237,7 +5237,7 @@ sns.scatterplot(x, y)
 
 
     
-![png](output_101_2.png)
+![png](assets/output_101_2.png)
     
 
 
@@ -5259,7 +5259,7 @@ sns.regplot(x, y)
 
 
     
-![png](output_102_2.png)
+![png](assets/output_102_2.png)
     
 
 
@@ -5287,7 +5287,7 @@ sns.scatterplot(x, np.log(y))
 
 
     
-![png](output_104_2.png)
+![png](assets/output_104_2.png)
     
 
 
@@ -5309,7 +5309,7 @@ sns.regplot(x, np.log(y))
 
 
     
-![png](output_105_2.png)
+![png](assets/output_105_2.png)
     
 
 
@@ -5339,7 +5339,7 @@ sns.scatterplot(x, y)
 
 
     
-![png](output_108_2.png)
+![png](assets/output_108_2.png)
     
 
 
@@ -5361,7 +5361,7 @@ sns.regplot(x, y)
 
 
     
-![png](output_109_2.png)
+![png](assets/output_109_2.png)
     
 
 
